@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-lock-management-system-142498-142517/smart_lock_backend"
+}
